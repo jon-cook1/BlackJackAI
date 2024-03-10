@@ -29,6 +29,7 @@ The bot will train itself over a default number of hands, which you can adjust i
 ## About The Project
 
 The bot starts with a 50/50 chance of hitting or standing. As it plays, it slightly adjusts these chances based on whether it wins or loses, simulating a very basic form of learning.
+I intend to revist this project in April 2024 when I complete my Artificial Neural Networks and Deep Learning course. 
 
 ## Contributing
 
