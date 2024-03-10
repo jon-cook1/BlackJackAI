@@ -11,18 +11,18 @@ A simple Java program that simulates Blackjack hands. It uses a basic reinforcem
 ### Installation
 
 1. Clone the repo:
-git clone https://github.com/jon-cook1/BlackJackAI.git
+`git clone https://github.com/jon-cook1/BlackJackAI.git`
 
 2. Navigate to the project directory:
-cd BlackJackAI
+`cd BlackJackAI`
 
 3. Compile the Java files:
-javac Bot.java BlackJackTrainer.java
+`javac Bot.java BlackJackTrainer.java`
 
 ### Usage
 
 Run the program with:
-java BlackJackTrainer
+`java BlackJackTrainer`
 
 The bot will train itself over a default number of hands, which you can adjust in the source code.
 
